@@ -1,19 +1,12 @@
-<h1>To do List</h1>
+# Projeto To Do List
 
-<h2>Contexto</h2>
+# Contexto
+Foi desenvolvido uma lista de tarefas usando HTML, CSS e JavaScript, onde nela você pode selecionar as tarefas que deseja, apagar uma por uma, apagar todas de uma vez, projeto simples mas que solidifica os aprendizados obtidos em fundamentos
 
-<p>O objetivo do projeto é fazer uma lista de tarefas em que você pode adicionar quantas tarefas quiser, selecionar, apagar, várias funcionalidades</p>
+## Tecnologias usadas
 
-<h2>Tecnologias Usadas</h2>
+Manipular CSS
 
-<p>Apenas JavaScript, HTML, e CSS.</p>
+Manipular Javascript
 
-<h2> Instalando Dependências </h2>
-
-<p>
-  npm install 
-  clique com o botão direito em "index.html"
-  Depois clique na primeira opção "Open With Live Server"
-</p>
-
-<p>Trabaho individual</p>
+## Trabalho Individual
